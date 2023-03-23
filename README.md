@@ -23,7 +23,8 @@ To use this app, follow these steps:
 6.The game wins counter will be updated accordingly for each player.
 7.To start a new game, tap the "New Game" button at the bottom of the screen.
 
-
+########################
+Just for more practice on flutter to github 
 
 
 
